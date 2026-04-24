@@ -1,0 +1,5 @@
+This repository provides legitimate command-line helpers for managing your own
+websites (backups, local dev server, deploy examples).
+
+It does not include, mirror, or improve malicious PHP webshells such as Gecko.php.
+Use only on systems you own or are authorized to administer.
