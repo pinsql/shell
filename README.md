@@ -10,3 +10,12 @@ Small JSON endpoint for **servers you own** or are **explicitly allowed** to tes
 4. Remove `pink.php` when finished.
 
 Response includes `gen_ms` (time to build the JSON on the server).
+
+## `siteshell` — CLI helpers
+
+Cross-platform helpers for **your own** sites (Linux/macOS/Git Bash and Windows PowerShell).
+
+- **Linux / macOS / Git Bash:** `./bin/siteshell --help`
+- **Windows (PowerShell):** `.\bin\siteshell.ps1 --help`
+
+See `NOTICE.txt` regarding legitimate use only.
