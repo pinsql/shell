@@ -1,4 +1,4 @@
-# shell
+# shell edit of Gecko
 
 ## `pink.php` — read-only health probe
 
